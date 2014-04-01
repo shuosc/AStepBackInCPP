@@ -1,0 +1,12 @@
+bin/
+obj/
+
+myApps/emptyExample/
+
+# codeblocks layout file, depend file
+*.layout
+*.depend
+
+# 7z zip files
+*.7z
+
